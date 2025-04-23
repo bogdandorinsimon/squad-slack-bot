@@ -1,0 +1,5 @@
+slack_bolt
+langchain
+langchain-community
+langchain-openai
+python-dotenv
